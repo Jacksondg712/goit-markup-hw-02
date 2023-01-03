@@ -1,0 +1,134 @@
+body{
+    font-family: 'Roboto';
+    color: #212121;
+    font-style: normal;
+}
+
+a{
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+}
+
+a:link{
+    text-decoration: none;
+
+}
+a:hover{
+    color: #2196F3;
+}
+a:active{
+    color: #2196F3;
+}
+button{
+    background-color: #F5F4FA;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+button:hover{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+button:active{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+.info{
+    color: rgb(57, 56, 56);
+}
+.webstudio{
+    color: #2196F3;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.text-info{
+    font-weight: 400;
+    font-size: 14px; 
+}
+
+.primera{
+    background-color: #2F303A;;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.button{ 
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    background-color:  #2196F3;
+    color: #FFFFFF;
+}
+
+.caption{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.list{
+    list-style: none;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.caption-team{
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+}
+
+.text-team-projects{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.back{
+    background-color: #2F303A;    
+}
+
+.text-footer{
+    color: #FFFFFF;
+}
+
+.text-footer-info{
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+}
+
+.caption-projects{
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+}
