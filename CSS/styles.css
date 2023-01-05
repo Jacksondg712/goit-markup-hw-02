@@ -56,6 +56,7 @@ button:focus{
     font-size: 14px; 
     list-style: none;
     line-height: 16px;
+    color: #757575;
 }
 
 .primera{
@@ -142,4 +143,8 @@ button:focus{
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
+}
+
+.principal{
+    color: #2196F3;
 }
