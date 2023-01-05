@@ -18,6 +18,9 @@ a:hover{
 a:active{
     color: #2196F3;
 }
+a:focus{
+    color: #2196F3;
+}
 button{
     background-color: #F5F4FA;
     font-weight: 500;
@@ -30,6 +33,10 @@ button:hover{
     color: #FFFFFF;
 }
 button:active{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+button:focus{
     background-color: #2196F3;
     color: #FFFFFF;
 }
@@ -48,7 +55,6 @@ button:active{
     font-weight: 400;
     font-size: 14px; 
     list-style: none;
-    color: #2196F3;
     line-height: 16px;
 }
 
