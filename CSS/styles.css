@@ -49,14 +49,14 @@ button:focus{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
 }
 
 .text-info{
     font-weight: 500;
     font-size: 14px; 
     list-style: none;
-    line-height: 16px;
+    line-height: 1.14;
     color: #757575;
 }
 
@@ -64,7 +64,7 @@ button:focus{
     background-color: #2F303A;;
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     text-transform: uppercase;
     color: #FFFFFF;
 }
@@ -72,7 +72,7 @@ button:focus{
 .button{ 
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.87;
     background-color:  #2196F3;
     color: #FFFFFF;
 }
@@ -80,7 +80,7 @@ button:focus{
 .caption{
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     text-transform: uppercase;
 }
 
@@ -88,7 +88,7 @@ button:focus{
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: #757575;
 }
 
@@ -99,7 +99,7 @@ button:focus{
 .title-caption{
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.16;
 }
 
 .caption-team{
@@ -107,13 +107,13 @@ button:focus{
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.18;
 }
 
 .text-team-projects{
     font-weight: 400;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.18;
     color: #757575;
 }
 
@@ -122,14 +122,17 @@ button:focus{
 }
 
 .text-footer{
-    line-height: 24px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
     color: #FFFFFF;
 }
 
 .text-footer-info{
     color: rgba(255, 255, 255, 0.6);
     font-weight: 400;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 1.71;
 }
 
 .caption-projects{
@@ -137,17 +140,22 @@ button:focus{
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.18;
 }
 
 .title{
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
 }
 
 .principal{
     color: #2196F3;
-    font-weight: 500px;
+    font-size: 14px;
+    line-height: 1.14;
+}
+.princ_nav{
+    font-size: 14px;
+    line-height: 1.14;
 }
 
