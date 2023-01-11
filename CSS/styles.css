@@ -69,13 +69,7 @@ button:focus{
     color: #FFFFFF;
 }
 
-.button{ 
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1.87;
-    background-color:  #2196F3;
-    color: #FFFFFF;
-}
+
 
 .caption{
     font-weight: 700;
@@ -157,5 +151,20 @@ button:focus{
 .princ_nav{
     font-size: 14px;
     line-height: 1.14;
+}
+
+.button_index{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    background-color:  #2196F3;
+    color: #FFFFFF;
+
+}
+
+.button_portafolio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 2.25;
 }
 
